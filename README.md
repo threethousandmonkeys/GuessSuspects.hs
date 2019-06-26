@@ -7,7 +7,13 @@ Height is one of S or T; hair colour is one of B, R, or D; and sex is one of M o
 
 
 
-![image-20190626221552438](/Users/Eva/Library/Application Support/typora-user-images/image-20190626221552438.png)
-
-![image-20190626221603611](/Users/Eva/Library/Application Support/typora-user-images/image-20190626221603611.png)
+```
+Your guess 1:  SBM SRM
+My answer:  (0,1,2,1)
+Your guess 2:  SBF TRM
+My answer:  (0,2,2,2)
+Your guess 3:  SRF TBM
+My answer:  (2,0,0,0)
+You got it in 3 guesses!
+```
 
